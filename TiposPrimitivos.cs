@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CursoC_
+namespace CursoCSharp
 {
     public static class TiposPrimitivos
     {
-        public static void imprimirPrimitivos()
+        public static void ImprimirTipos()
         {
             // Tipo inteiro de 8 bits com sinal
             sbyte SByte = -128;
@@ -35,7 +35,7 @@ namespace CursoC_
             Console.WriteLine($"uint: {variavelUInt}");
 
             // Tipo inteiro de 64 bits com sinal
-            long variavelLong = -9223372836854775808;
+            long variavelLong = -9223372036854775808;
             Console.WriteLine($"long: {variavelLong}");
 
             // Tipo inteiro de 64 bits sem sinal
@@ -67,7 +67,7 @@ namespace CursoC_
             Console.WriteLine($"object: {variavelObject}");
 
             // Tipo string, sequencia de caracteres Unicode
-            string variavelString = null;
+            string variavelString = "Buenas Tardes";
             Console.WriteLine($"string: {variavelString}");
         }
     }
