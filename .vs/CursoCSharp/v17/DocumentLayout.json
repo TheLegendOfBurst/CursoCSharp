@@ -18,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "2- OperadoresAritmeticos.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
-              "RelativeDocumentMoniker": "Exercicios\\2- OperadoresAritmeticos.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
-              "RelativeToolTip": "Exercicios\\2- OperadoresAritmeticos.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T20:22:19.873Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -49,9 +36,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T18:53:14.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2- OperadoresAritmeticos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
+              "RelativeDocumentMoniker": "Exercicios\\2- OperadoresAritmeticos.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
+              "RelativeToolTip": "Exercicios\\2- OperadoresAritmeticos.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:22:19.873Z",
               "EditorCaption": ""
             }
           ]
