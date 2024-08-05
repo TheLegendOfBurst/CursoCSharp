@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|c:\\users\\aluno noite\\documents\\cursoc#\\cursocsharp\\exercicios\\operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|solutionrelative:exercicios\\operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|c:\\users\\aluno noite\\documents\\cursoc#\\cursocsharp\\exercicios\\2- operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|solutionrelative:exercicios\\2- operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|c:\\users\\aluno noite\\documents\\cursoc#\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2- OperadoresAritmeticos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
+              "RelativeDocumentMoniker": "Exercicios\\2- OperadoresAritmeticos.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
+              "RelativeToolTip": "Exercicios\\2- OperadoresAritmeticos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:22:19.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -36,22 +49,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T18:53:14.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OperadoresAritmeticos.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\OperadoresAritmeticos.cs",
-              "RelativeDocumentMoniker": "Exercicios\\OperadoresAritmeticos.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\OperadoresAritmeticos.cs",
-              "RelativeToolTip": "Exercicios\\OperadoresAritmeticos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:20:35.393Z",
               "EditorCaption": ""
             }
           ]
