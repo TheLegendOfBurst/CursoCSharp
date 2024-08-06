@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geovane\\Documents\\GitHub\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geovane\\Documents\\GitHub\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geovane\\Documents\\GitHub\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Geovane\\Documents\\GitHub\\CursoCSharp\\CursoCSharp.csproj",
-        "packagesPath": "C:\\Users\\Geovane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geovane\\Documents\\GitHub\\CursoCSharp\\obj\\",
+        "projectPath": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\CursoCSharp.csproj",
+        "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Geovane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
