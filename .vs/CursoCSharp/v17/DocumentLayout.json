@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|c:\\users\\aluno noite\\documents\\cursoc#\\cursocsharp\\exercicios\\2- operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|solutionrelative:exercicios\\2- operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|c:\\users\\aluno noite\\documents\\cursoc#\\cursocsharp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|c:\\users\\aluno noite\\documents\\cursoc#\\cursocsharp\\guia\\1-guia tiposprimitivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|solutionrelative:guia\\1-guia tiposprimitivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD2D95F-3879-4CF5-8723-453168E358B2}|CursoCSharp.csproj|c:\\users\\aluno noite\\documents\\cursoc#\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:32:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "1-Guia TiposPrimitivos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Guia\\1-Guia TiposPrimitivos.cs",
+              "RelativeDocumentMoniker": "Guia\\1-Guia TiposPrimitivos.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Guia\\1-Guia TiposPrimitivos.cs",
+              "RelativeToolTip": "Guia\\1-Guia TiposPrimitivos.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAvwEIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:28:11.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAswDUAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T18:53:14.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "2- OperadoresAritmeticos.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
-              "RelativeDocumentMoniker": "Exercicios\\2- OperadoresAritmeticos.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\CursoC#\\CursoCSharp\\Exercicios\\2- OperadoresAritmeticos.cs",
-              "RelativeToolTip": "Exercicios\\2- OperadoresAritmeticos.cs",
-              "ViewState": "AQIAAO8AAAAAAAAAAAAYwBIBAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T20:22:19.873Z",
               "EditorCaption": ""
             }
           ]

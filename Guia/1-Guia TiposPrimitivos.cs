@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,7 +64,7 @@ namespace CursoCSharp.Guia
             Console.WriteLine($"bool: {variavelBool}");
 
             // Tipo de valor Nulo
-            object variavelObject = null;
+            object? variavelObject = null;
             Console.WriteLine($"object: {variavelObject}");
 
             // Tipo string, sequencia de caracteres Unicode

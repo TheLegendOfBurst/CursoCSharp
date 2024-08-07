@@ -51,4 +51,4 @@ using CursoCSharp.Exercicios;
 // ExercicioOperadoresAritmeticos.Exercicio17();
 // ExercicioOperadoresAritmeticos.Exercicio18();
 // ExercicioOperadoresAritmeticos.Exercicio19();
- ExercicioOperadoresAritmeticos.Exercicio20();
+// ExercicioOperadoresAritmeticos.Exercicio20();

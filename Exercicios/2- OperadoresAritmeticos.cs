@@ -250,8 +250,8 @@ namespace CursoCSharp.Exercicios
             // Solicita ao usuário para inserir a quantidade de dias
             Console.Write("Digite a quantidade de dias: ");
 
-            // Lê a entrada do usuário e a converte para um número inteiro
-            string input = Console.ReadLine();
+            // Lê a entrada do usuário
+            string? input = Console.ReadLine(); // Adicionando o operador ? para indicar que pode ser nulo
             int dias;
 
             // Verifica se a entrada é um número inteiro válido
@@ -270,16 +270,39 @@ namespace CursoCSharp.Exercicios
             }
         }
 
+
         /* 20. Questão: Crie um programa que peça ao usuário para inserir a quantidade de horas e
                minutos e calcule o total em minutos. Exiba o resultado com uma mensagem explicativa. */
         public static void Exercicio20()
         {
+            // Solicita ao usuário a quantidade de horas
             Console.Write("Digite a quantidade de horas: ");
-            int horas = int.Parse(Console.ReadLine());
+            string? inputHoras = Console.ReadLine(); // Permite nulo
+            int horas;
+
+            // Verifica se a entrada para horas é um número inteiro válido
+            if (!int.TryParse(inputHoras, out horas))
+            {
+                Console.WriteLine("Por favor, insira um número inteiro válido para horas.");
+                return; // Sai do método se a entrada não for válida
+            }
+
+            // Solicita ao usuário a quantidade de minutos
             Console.Write("Digite a quantidade de minutos: ");
-            int minutos = int.Parse(Console.ReadLine());
+            string? inputMinutos = Console.ReadLine(); // Permite nulo
+            int minutos;
+
+            // Verifica se a entrada para minutos é um número inteiro válido
+            if (!int.TryParse(inputMinutos, out minutos))
+            {
+                Console.WriteLine("Por favor, insira um número inteiro válido para minutos.");
+                return; // Sai do método se a entrada não for válida
+            }
+
             // Calcula o total de minutos
             int totalMinutos = (horas * 60) + minutos;
+
+            // Exibe o resultado
             Console.WriteLine($"O total em minutos é: {totalMinutos} minutos.");
         }
 
